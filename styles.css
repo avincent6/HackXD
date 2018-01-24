@@ -1,12 +1,12 @@
 /* Colors
 
-Blue #2AACE2
+Blue #25a9e0
 Yellow #FFF200
 */
 body {
   font-family: 'Gilroy', 'Roboto', sans-serif;
   margin: 0 auto;
-  color:#2AACE2;
+  color:#25a9e0;
   text-align: center;
   min-height: 100vh;
 }
@@ -68,7 +68,7 @@ input {
 }
 #mce-EMAIL {
   width: 85%;
-  border-bottom: 1px solid #2AACE2;
+  border-bottom: 1px solid #25a9e0;
 }
 input:focus {
   outline: none;
@@ -84,6 +84,6 @@ input:placeholder {
 .button {
   padding: 12px 20px;
   margin-top: 10px;
-  background: #2AACE2;
+  background: #25a9e0;
   color:white;
 }
